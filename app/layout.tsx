@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   },
   description: 'Where Every Ticket Holds A Celebration',
   metadataBase: new URL('https://organizer.thepartybank.com/'),
+  icons: {
+    icon: '/pb-logo.png'
+  }
 };
 
 export default function RootLayout({
