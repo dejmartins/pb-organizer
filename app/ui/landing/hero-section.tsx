@@ -16,9 +16,9 @@ export default function HeroSection() {
           <span className="font-[700] italic">Plan, manage, and elevate</span> your events with Partybank.
         </p>
 
-        <h1 className="text-4xl text-[40px] md:text-[62px] font-[700] mb-10 md:mb-20 lg:mb-18">Coming Soon!</h1>
+        <h1 className="text-4xl text-[40px] md:text-[62px] font-[700] mb-10 md:mb-20">Coming Soon!</h1>
 
-        <div className="flex gap-4 w-full max-w-[1000px] mx-auto xl:absolute bottom-0">
+        <div className="flex gap-4 w-full max-w-[1000px] mx-auto xl:absolute -bottom-10">
           <Image
             src="/hero-image.png"
             layout="responsive"
