@@ -18,7 +18,7 @@ export default function HeroSection() {
 
         <h1 className="text-4xl text-[40px] md:text-[62px] font-[700] mb-10 md:mb-20">Coming Soon!</h1>
 
-        <div className="flex gap-4 w-full max-w-[1000px] mx-auto xl:absolute -bottom-0">
+        <div className="flex gap-4 w-full max-w-[1000px] mx-auto xl:absolute -bottom-8">
           <Image
             src="/hero-image.png"
             layout="responsive"
