@@ -5,14 +5,14 @@ export default function Header() {
       <header className="fixed top-0 left-0 w-full bg-[#FFFFFF] border-b text-[#080D18] py-4 z-50">
         <div className="flex justify-between items-center px-6">
             <div className="flex items-center gap-10">
-                <div>
+                <a href="https://thepartybank.com/">
                     <Image
                         src="/pb-logo.png"
                         width={65.95}
                         height={32.36}
                         alt="Partybank Logo"
                     />
-                </div>
+                </a>
             </div>
         </div>
       </header>
